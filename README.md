@@ -12,4 +12,4 @@ I'm a junior developer with a passion for building web applications using React.
 - State management with Redux
 - Backend basics with Node.js
 
-[![Codewars](https://www.codewars.com/users/IGIRANEZAJosue/badges/large)](https://www.codewars.com/users/IGIRANEZAJosue)
+[![Codewars](https://www.codewars.com/users/IGIRANEZAJosue/badges/small)](https://www.codewars.com/users/IGIRANEZAJosue)
